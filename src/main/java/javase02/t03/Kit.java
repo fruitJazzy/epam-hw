@@ -10,7 +10,16 @@ package javase02.t03;
  */
 public class Kit {
 
+    private Sciccors;
 
+    private Pen[] pens;
 
+    private Pencil pencil;
+
+    private Scissors scissors;
+
+    private Eraser eraser;
+
+    private Clip[] clips;
 
 }
